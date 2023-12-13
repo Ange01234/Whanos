@@ -1,2 +1,0 @@
-# Whanos
-whanos public repo
